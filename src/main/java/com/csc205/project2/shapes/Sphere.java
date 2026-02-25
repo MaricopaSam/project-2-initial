@@ -22,8 +22,8 @@ package com.csc205.project2.shapes;
  * - [Explain why changes were necessary]
  *
  * Formula Verification:
- * - Volume formula verified against: [source]
- * - Surface area formula verified against: [source]
+ * - Volume formula verified against: https://www.mathsisfun.com/geometry/sphere.html
+ * - Surface area formula verified against: same as above
  */
 
 
